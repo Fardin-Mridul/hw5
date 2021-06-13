@@ -1,0 +1,119 @@
+
+h1{
+text-align: center;
+text-transform: uppercase;
+color: #62c34a;
+background-color: black ;
+margin-top: 20px;}
+.header{
+min-height: 80px;
+background-color: blue;}
+.box{overflow: hidden;
+}
+.container{float: left;
+	width: 70%;
+min-height: 300px;
+background-color: black;
+ }
+.blog{float: right;
+	width: 28%;
+	min-height: 300px;
+	background-color: tomato;
+}
+.footer{ min-height: 70px;
+background-color: magenta; }
+.box2{
+overflow: hidden;}
+.single{
+	width: 33.33%;
+	min-height: 100px;
+}
+.tomato{ float: left;
+background-color: tomato;
+}
+.olive{float: left;
+background-color: olive;}
+.cyan{ float: left;
+	background-color: cyan;}
+	.single1{
+	width: 20%;
+	min-height: 100px;
+}
+.black{
+	float: left;
+	background-color: black;
+}
+.blue{float: left;
+background-color: blue;}
+.green{
+float: left;
+background-color: green;}
+.white{float: left;
+background-color: white;}
+.yellow{
+float: left;
+background-color: yellow;}
+.single2{
+	width: 15%;
+	min-height: 100px;}
+.f1{float: left;
+		background-color: magenta;}
+.f2{float: left;
+		background-color: snow;}
+.f3{float: left;
+		background-color: green;}
+.f4{float: left;
+		background-color: blue;}
+.f5{float: left;
+		background-color: red;}
+.f6{float: left;
+		background-color: green;}
+img{
+float: right;
+height: 300px;
+width: 300px;
+margin-bottom: 50px;}		
+.overflow{
+background-color:#62c34a;
+color: white;
+padding: 15px;
+width: 50%;
+height: 100px;
+overflow: scroll;
+border: solid black;}		
+.static{
+position: static;
+border: 1px solid blue;
+margin-bottom: 10px;}		
+.fixed{
+position: relative;
+border: 3px solid #73AD21;}
+.color{
+text-align: center;
+color: blue;}
+.display{ display: inline ;
+	font-size: 10px;
+}
+.boxof{border: 1px solid black;
+background-color: lawngreen;
+color: white;
+width: 70%;
+margin: 20px;
+padding: 50px;}
+.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+ padding: 30px;
+}
+.gallery:hover {
+  border: 1px solid #777}
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+.desc {
+  padding: 15px;
+  text-align: center;
+}
